@@ -1,4 +1,3 @@
-```markdown
 # Explorando IAs Generativas em Diferentes Indústrias
 
 ## 📒 Descrição
