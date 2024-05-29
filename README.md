@@ -11,3 +11,4 @@ Este eBook oferece uma visão geral concisa sobre como as IAs generativas estão
 
 ## 🚀 Resultados
 O eBook é uma introdução simples ao campo das IAs generativas, ideal para leitores que buscam uma compreensão rápida do assunto.
+- [Link para eBook](https://github.com/ChristianCps/lab-natty-or-not/blob/main/exemplos/IAs%20Generativas%20em%20Diferentes%20Ind%C3%BAstrias.pdf)
